@@ -50,8 +50,9 @@ The dataset includes **1470 employees with 41 attributes**, covering demographic
 ---
 
 ## 📸 Dashboard Preview
+<img width="1403" height="812" alt="Dashboard Page 1" src="https://github.com/user-attachments/assets/f6b4e61c-2b2f-461a-9971-71e94868337d" />
 
-(Add screenshots here – e.g., Page 1, Page 2, Page 3)
+
 
 ---
 
